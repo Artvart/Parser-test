@@ -1,0 +1,19 @@
+C:\Users\Avart\AppData\Local\Temporary Projects\Parser_test\bin\Release\Parser_test.exe
+C:\Users\Avart\AppData\Local\Temporary Projects\Parser_test\bin\Release\Parser_test.pdb
+C:\Users\Avart\AppData\Local\Temporary Projects\Parser_test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Avart\AppData\Local\Temporary Projects\Parser_test\obj\x86\Release\Parser_test.Form1.resources
+C:\Users\Avart\AppData\Local\Temporary Projects\Parser_test\obj\x86\Release\Parser_test.Properties.Resources.resources
+C:\Users\Avart\AppData\Local\Temporary Projects\Parser_test\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Avart\AppData\Local\Temporary Projects\Parser_test\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Avart\AppData\Local\Temporary Projects\Parser_test\obj\x86\Release\Parser_test.exe
+C:\Users\Avart\AppData\Local\Temporary Projects\Parser_test\obj\x86\Release\Parser_test.pdb
+C:\Users\Avart\documents\visual studio 2010\Projects\Parser_test\Parser_test\obj\x86\Release\Parser_test.exe
+C:\Users\Avart\documents\visual studio 2010\Projects\Parser_test\Parser_test\obj\x86\Release\Parser_test.pdb
+C:\Users\Avart\documents\visual studio 2010\Projects\Parser_test\Parser_test\bin\Release\Parser_test.exe
+C:\Users\Avart\documents\visual studio 2010\Projects\Parser_test\Parser_test\bin\Release\Parser_test.pdb
+C:\Users\Avart\documents\visual studio 2010\Projects\Parser_test\Parser_test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Avart\documents\visual studio 2010\Projects\Parser_test\Parser_test\obj\x86\Release\Parser_test.Form1.resources
+C:\Users\Avart\documents\visual studio 2010\Projects\Parser_test\Parser_test\obj\x86\Release\Parser_test.Properties.Resources.resources
+C:\Users\Avart\documents\visual studio 2010\Projects\Parser_test\Parser_test\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Avart\documents\visual studio 2010\Projects\Parser_test\Parser_test\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Avart\documents\visual studio 2010\Projects\Parser_test\Parser_test\obj\x86\Release\Parser_test.Form2.resources
